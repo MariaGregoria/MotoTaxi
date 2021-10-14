@@ -11,6 +11,8 @@ class MainActivity : AppCompatActivity() {
     lateinit var btn_login: Button
     lateinit var btn_trabajador: Button
     lateinit var btn_cliente: Button
+    lateinit var txtv_cliente: TextView
+    lateinit var txtv_trabajador: TextView
     
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
