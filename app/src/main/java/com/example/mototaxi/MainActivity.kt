@@ -10,6 +10,7 @@ class MainActivity : AppCompatActivity() {
     lateinit var btn_registrar: Button
     lateinit var btn_login: Button
     lateinit var btn_trabajador: Button
+    lateinit var btn_cliente: Button
     
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
